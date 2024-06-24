@@ -14,7 +14,7 @@ Error handling for invalid country names and duplicate entries
 
 Clone this repository:
 
-git clone https://your-repository-url.git
+git clone https://github.com/adityadhiman-in/travelTrackerPernStack
 Install dependencies:
 
 npm install
